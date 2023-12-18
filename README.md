@@ -1,6 +1,6 @@
 **NLP project reprository**
 
-Welcome to my Natural Language Processing (NLP) Project repository! In this repository, I have added two exciting NLP projects, each showcasing unique aspects of text analysis and classification.
+Welcome to my Natural Language Processing (NLP) Project repository! In this repository, I have added two exciting NLP projects, each showcasing unique aspects of text analysis and classification..
 
 **1. 📚 Naive Bayes Implementation from Scratch**
 
